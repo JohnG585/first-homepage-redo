@@ -1,0 +1,72 @@
+html {
+  background-color: black;
+}
+#Subtitle {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  font-size: 200%;
+  color: white;
+}
+h1 {
+  text-align: center;
+  font-size: 500%;
+  font-family: 'Sigmar One', cursive;
+  color: white;
+}
+.Questions {
+  font-family: 'Oleo Script', cursive;
+  text-align: center;
+  color: white;
+}
+#goals {
+  font-family: 'Dosis', sans-serif;
+  color: white;
+}
+.answers {
+  font-family: 'Dosis', sans-serif;
+  text-align: center;
+  color: white;
+}
+#topLine {
+  text-align: center;
+  color: white;
+}
+#ronDance {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+#FinnJake {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+#JakeDance {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+footer {
+  text-align: center;
+  color: white;
+}
+ul {
+  list-style-type: square;
+  font-family: 'Signika', sans-serif;
+  color: white;
+}
+.PageTwoQ {
+  font-family: 'Oleo Script', cursive;
+  color: white;
+}
+#tops {
+  text-align: center;
+  color: white;
+}
+.videos {
+  text-align: center;
+  color: white;
+}
